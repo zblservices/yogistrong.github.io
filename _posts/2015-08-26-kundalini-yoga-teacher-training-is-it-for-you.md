@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: Kundalini Yoga Teacher Training, is it for You?
+author:
+  display_name: gurumantrakaur
+  login: gurumantrakaur
+  email: yoga@gurumantrakaur.com
+  url: http://www.gurumantrakaur.com
+author_login: gurumantrakaur
+author_email: yoga@gurumantrakaur.com
+author_url: http://www.gurumantrakaur.com
+wordpress_id: 328
+wordpress_url: http://www.yogistrong.com/?p=328
+date: '2015-08-26 03:12:17 -0400'
+date_gmt: '2015-08-26 03:12:17 -0400'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+To those of you who may not know about Kundalini Yoga, or wonder why you should take a class, or better yet kundalini yoga teacher training, let me enlighten you on my personal experiences.
+
+<!--more-->
+My name is Gurumantra Kaur, and I am a Kundalini Yoga instructor, and owner of YogiSTRONG. After being diagnosed with anxiety and severe allergies from my surroundings, in 2004, I began looking for a Raj Yoga, a royalty yoga, as a holistic approach to address my issues. I discovered Kundalini; and it is just that: royal. Once I started, I couldn&rsquo;t stop the snowball effect that Kundalini had on my life. My anxiety lessened, I was breathing easier and more deeply, and stress no longer affected me like before. I needed to know more, and thought &ldquo;why not try teacher training?&rdquo; Later, after talking to some of my peers, I found that many people were in the same boat as I had been; desiring to be healthier, stronger, happier, and more mindful. I signed up for Kundalini Yoga Teacher Training Level 1 at PranaShanti Yoga Center in Ottawa, Ontario, Canada.
+
+I met with the owner of the studio, and lead trainer of their Kundalini Yoga Teacher Trainer course, Devinder Kaur. I had many questions for her: Why are most yogis vegetarian, and do I need to be one? Why should I stop drinking? What will I gain from this course? Will it help me, even if I don&rsquo;t go on to teach? Kundalini seems different from other yogas, how is it better for me, personally? She went on to answer all these questions for me, but the real insights came with my personal experiences over the course of the teacher training.
+
+Teacher training pushed me, allowing me to unleash the physical, mental and emotional strength that I possess deep in my core. My instructors opened my eyes to nutrition; posture; being alone in silence; and, of course, yoga, meditation, and proper breathing. I learned not just about yoga and its fundamentals from the trainers, their stories, and yogic teachings, but also about myself. The teachings awakened my soul to my body and mind, to feeling comfortable in my skin for the first time, to gaining confidence in myself, learning to use my voice, and how to see things from a neutral mind. I lost weight from the postures, and nutrition change. I also lost emotional and physical baggage that was holding me back from enjoying a harmonious lifestyle.
+
+Now, and during my trainings, I use this yogic science to keep me sane in a stressful world, to maintain a healthy mind and body, and to have achieved a healthy pregnancy with natural labor and delivery. My yogic lifestyle has also given my 3 year old daughter the tools to express herself, and be tantrum free. Kundalini Yoga has touched every particle of my being and surroundings, making me healthy, happy, and functioning at my peak performance. It&rsquo;s hard to imagine what life would be like without the knowledge, ongoing experiences, and support from the Kundalini Yogi community. I&rsquo;ve become a better version of my self than I could have ever imagined all in thanks to the wonderful, and talented yoga trainers, and teachings from Yogi Bhajan.
+
+For more information, or to sign up for Kundalini Yoga Teacher Training visit [PranaShanti](http://pranashanti.com/services/kundalini-yoga-teacher-training-l1/)
+
+<a href="http://www.yogistrong.com/wp-content/uploads/2015/08/20092010-kytt-lvl1.jpg"><img class="size-full wp-image-329" alt="KYTT level 1 Group Photo" src="http://www.yogistrong.com/wp-content/uploads/2015/08/20092010-kytt-lvl1.jpg" width="720" height="540" /></a>
+</div>
