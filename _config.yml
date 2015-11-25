@@ -1,0 +1,7 @@
+name: Yogi Strong
+description: Kundalini Yoga with Gurumantra Kaur
+paginate: 10
+baseurl:
+excerpt_separator: <!--more-->
+
+gems: [jekyll-paginate]
