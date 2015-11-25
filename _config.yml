@@ -1,7 +1,8 @@
-name: Yogi Strong
+name: YogiSTRONG
 description: Kundalini Yoga with Gurumantra Kaur
 paginate: 10
-baseurl: http://zblservices.github.io/yogistrong.github.io
+#baseurl: http://zblservices.github.io/yogistrong.github.io
+baseurl: 
 excerpt_separator: <!--more-->
 
 gems: [jekyll-paginate]
