@@ -891,10 +891,23 @@
 			margin-bottom: 2em;
 		}
 
+		.excerpt a {
+			text-decoration: none;
+		}
+
 		.excerpt-head a {
 				color: #ff1493;
 		}
 
 		.excerpt p {
 			margin-bottom: 0.5em;
+		}
+
+		.blognav {
+			text-align: center;
+		}
+
+		.blognav a {
+			margin-left: 3em;
+			margin-right: 3em;
 		}
