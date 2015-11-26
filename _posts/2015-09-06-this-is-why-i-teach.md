@@ -23,7 +23,7 @@ categories:
 tags: []
 comments: []
 ---
-<a href="{{site.baseurl}}/assets/2012/05/IMG_36381.jpg"><img class="aligncenter size-full wp-image-243" alt="IMG_3638" src="{{site.baseurl}}/assets/2012/05/IMG_36381.jpg" width="100%" /></a>
+<a href="/assets/2012/05/IMG_36381.jpg"><img class="aligncenter size-full wp-image-243" alt="IMG_3638" src="/assets/2012/05/IMG_36381.jpg" width="100%" /></a>
 
 When a student comes into the studio, wether it is for the first or hundredth time, it brings a warmth to my heart. I know that they came to me seeking to become healthier and happier. I greet my students by asking them how they are doing, how the day has treated them, and if they have any problem areas they have noticed lately. This allows me to sense their energy, and choose a Kriya that I know will benefit everyone&rsquo;s mind, body, and spirit. Each day, each session, is driven by the energy that&rsquo;s brought into the studio. Regardless of the stresses and various states of mind my students may be in to start, the sessions always progress in very much the same way.
 
