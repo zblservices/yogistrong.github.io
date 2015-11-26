@@ -47,6 +47,7 @@
 		border-bottom: dotted 1px;
 	}
 
+
 		a:hover {
 			color: #ff1493;
 			border-bottom-color: transparent;
@@ -869,7 +870,7 @@
 		}
 
 		/*
-		 * STORY 
+		 * STORY
  		 */
 
 		.story p {
@@ -878,9 +879,22 @@
 		}
 
 		.story ul {
-			list-style: disc;
+			list-style: disc inside;
 		}
 
 		.story h2 {
 			margin-bottom: 1em;
+		}
+
+		.excerpt {
+			padding-left: 1em;
+			margin-bottom: 2em;
+		}
+
+		.excerpt-head a {
+				color: #ff1493;
+		}
+
+		.excerpt p {
+			margin-bottom: 0.5em;
 		}

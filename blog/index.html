@@ -5,7 +5,7 @@ layout: default
 
 <!-- Main -->
 	<section class="wrapper style1">
-		<div class="container story">
+		<div class="container">
 
 
 						<!-- Blog -->
@@ -14,20 +14,12 @@ layout: default
 									<h2>The Blog</h2>
 								</header>
 								{% for post in paginator.posts %}
-									<div class="row">
-										<section class="12u">
-											<div class="box post">
-												<div class="inner">
-													<h3><a href="{{post.url}}">{{ post.title }}</a></h3>
-													{{ post.excerpt }}
-													<footer>
+											<div class="container-fluid excerpt-head">
+													<h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+													<div class="excerpt">{{ post.excerpt }}
 														<a href="{{ site.baseurl }}{{ post.url }}">Continue reading "{{post.title}}"</a>
-													</footer>
-												</div>
+													</div>
 											</div>
-
-										</section>
-									</div>
 								{% endfor %}
 
 								{% if paginator.previous_page %}

@@ -27,7 +27,7 @@ Ingredients:
 * handful of asparagus
 * 1 can of kidney beans
 * handful of pea sprouts
-* 3 tbsp Bragg
+* 3 tbsp Bragg <!--more-->
 * 3 tbsp dry red wine
 * 3 tbsp olive oil
 * 3 tsp lemon juice

@@ -21,7 +21,7 @@ comments: []
 ---
 Sat Nam,
 
-It has been way to long since I last updated my blog. A lot has been going on... I have moved into a new home that my Partner has bought for us. I have taught over 120 Kundalini Yoga classes in Potsdam, NY. I have started one out of five modules in the Level two KYTT, Conscious Communication. I&rsquo;m getting a new tattoo this Tuesday. I am happy, healthy (knock on wood), holy, and becoming stronger mentally, physically, and emotionally everyday. I have great jobs, with good income, a nice home with awesome animals and a loving boyfriend. An amazing Kundalini Yoga Community (even if they don&rsquo;t live in my direct community). I am chanting everyday. Slowly building up my sadhana and reading when I can.
+It has been way to long since I last updated my blog. A lot has been going on... I have moved into a new home that my Partner has bought for us. I have taught over 120 Kundalini Yoga classes in Potsdam, NY. I have started one out of five modules in the Level two KYTT, Conscious Communication. I&rsquo;m getting a new tattoo this Tuesday. I am happy, healthy (knock on wood), holy, and becoming stronger mentally, physically, and emotionally everyday. <!--more-->I have great jobs, with good income, a nice home with awesome animals and a loving boyfriend. An amazing Kundalini Yoga Community (even if they don&rsquo;t live in my direct community). I am chanting everyday. Slowly building up my sadhana and reading when I can.
 
 In this level two KYTT, Conscious Communication, I have to write or discuss Chapter One and how it has effected me and how I relate to them as a spiritual being and a teacher. Here is my discussion/write up. ....
 

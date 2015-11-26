@@ -24,7 +24,7 @@ This tea is known to be good for the blood and colon, the nervous system and bon
 
 * 13 sticks of cinnamon
 * 2 large handfuls ginger (skinned and chopped in lengths)
-* 3 tbsp cardamom seeds (crushed, use a knife or rolling pin)
+* 3 tbsp cardamom seeds (crushed, use a knife or rolling pin) <!--more-->
 * 1 tbsp cloves
 * 1 1/3 tbsp black pepper
 * 2 gallons of water
