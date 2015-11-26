@@ -13,6 +13,6 @@ comments: []
 ---
 Kundalini Yoga for Prenatal care uses asana (postures), pranayama (breath), mantra (chanting), and relaxation technique. These classes help prepare expectant mothers for the physical demands of going through the birthing process.
 
-<a href="http://iweb.gurumantrakaur.com/wp-content/uploads/2012/05/prenatal21.png"><img class="alignnone size-medium wp-image-71" title="prenatal2" src="http://iweb.gurumantrakaur.com/wp-content/uploads/2012/05/prenatal21-285x300.png" alt="" width="285" height="300" /></a>
+<a href="/assets/2012/05/prenatal21.png"><img class="alignnone size-medium wp-image-71" title="prenatal2" src="/assets/2012/05/prenatal21-285x300.png" alt="" width="285" height="300" /></a>
 
 Wear loose, natural fiber clothes. Bring a yoga mat, 1 or 2 pillows (a body pillow works well), a blanket or shawl, and a bottle of water.
