@@ -2,6 +2,9 @@ name: YogiSTRONG
 description: Kundalini Yoga with Gurumantra Kaur
 
 markdown: kramdown
+kramdown:  
+  parse_block_html: true
+
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "/blog/page:num/"
