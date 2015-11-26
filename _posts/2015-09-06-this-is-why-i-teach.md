@@ -3,25 +3,12 @@ layout: post
 status: publish
 published: true
 title: This is Why I Teach...
-author:
-  display_name: gurumantrakaur
-  login: gurumantrakaur
-  email: yoga@gurumantrakaur.com
-  url: http://www.gurumantrakaur.com
-author_login: gurumantrakaur
-author_email: yoga@gurumantrakaur.com
-author_url: http://www.gurumantrakaur.com
-wordpress_id: 335
-wordpress_url: http://www.yogistrong.com/?p=335
 date: '2015-09-06 01:26:24 -0400'
-date_gmt: '2015-09-06 01:26:24 -0400'
 categories:
 - Training
 - Teaching
 - Yoga
 - Gratitude
-tags: []
-comments: []
 ---
 <a href="/assets/2012/05/IMG_36381.jpg"><img class="aligncenter size-full wp-image-243" alt="IMG_3638" src="/assets/2012/05/IMG_36381.jpg" width="100%" /></a>
 

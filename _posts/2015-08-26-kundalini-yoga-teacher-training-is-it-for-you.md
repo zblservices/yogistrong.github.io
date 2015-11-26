@@ -1,24 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Kundalini Yoga Teacher Training, is it for You?
-author:
-  display_name: gurumantrakaur
-  login: gurumantrakaur
-  email: yoga@gurumantrakaur.com
-  url: http://www.gurumantrakaur.com
-author_login: gurumantrakaur
-author_email: yoga@gurumantrakaur.com
-author_url: http://www.gurumantrakaur.com
-wordpress_id: 328
-wordpress_url: http://www.yogistrong.com/?p=328
 date: '2015-08-26 03:12:17 -0400'
-date_gmt: '2015-08-26 03:12:17 -0400'
-categories:
-- Uncategorized
-tags: []
-comments: []
 ---
 To those of you who may not know about Kundalini Yoga, or wonder why you should take a class, or better yet kundalini yoga teacher training, let me enlighten you on my personal experiences.
 
