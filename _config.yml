@@ -1,13 +1,12 @@
 name: YogiSTRONG
 description: Kundalini Yoga with Gurumantra Kaur
 
-#baseurl: http://zblservices.github.io/yogistrong.github.io
-#baseurl: http://www.yogistrong.com
-baseurl:
-excerpt_separator: <!--more-->
-
+markdown: kramdown
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "/blog/page:num/"
 
-markdown: kramdown
+#baseurl: http://zblservices.github.io/yogistrong.github.io
+#baseurl: http://www.yogistrong.com
+baseurl:
+excerpt_separator: <!--more-->
