@@ -1,0 +1,19 @@
+{% include header.html %}
+<!-- Main -->
+	<section class="wrapper style1">
+		<div class="container">
+
+			<!-- Blog -->
+				<section>
+					<header class="major">
+						<h2>{{ page.title }}</h2>
+						<p>Posted {{ page.date | date_to_string }}</p>
+					</header>
+					<div class="container story">
+								{{ page.content }}
+					</div>
+				</section>
+
+		</div>
+	</section>
+{% include footer.html %}
