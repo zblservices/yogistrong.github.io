@@ -4,11 +4,7 @@ status: publish
 published: true
 title: This is Why I Teach...
 date: '2015-09-06 01:26:24 -0400'
-categories:
-- Training
-- Teaching
-- Yoga
-- Gratitude
+categories: training teaching yoga gratitude
 ---
 <a href="/assets/2012/05/IMG_36381.jpg"><img class="aligncenter size-full wp-image-243" alt="IMG_3638" src="/assets/2012/05/IMG_36381.jpg" width="100%" /></a>
 
