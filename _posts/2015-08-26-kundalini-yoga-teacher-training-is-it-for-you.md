@@ -33,5 +33,5 @@ Now, and during my trainings, I use this yogic science to keep me sane in a stre
 
 For more information, or to sign up for Kundalini Yoga Teacher Training visit [PranaShanti](http://pranashanti.com/services/kundalini-yoga-teacher-training-l1/)
 
-<a href="http://www.yogistrong.com/wp-content/uploads/2015/08/20092010-kytt-lvl1.jpg"><img class="size-full wp-image-329" alt="KYTT level 1 Group Photo" src="http://www.yogistrong.com/wp-content/uploads/2015/08/20092010-kytt-lvl1.jpg" width="720" height="540" /></a>
+<a href="{{site.baseurl}}/assets/2015/08/20092010-kytt-lvl1.jpg"><img class="size-full wp-image-329" alt="KYTT level 1 Group Photo" src="{{site.baseurl}}/assets/2015/08/20092010-kytt-lvl1.jpg" width="720" height="540" /></a>
 </div>

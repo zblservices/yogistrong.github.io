@@ -835,9 +835,7 @@
 
 		#footer a {
 			color: inherit;
-			/*border-bottom-color: rgba(71, 71, 71, 0.25);*/
-			text-align: right;
-			text-decoration: none;
+			border-bottom-color: rgba(71, 71, 71, 0.25);
 		}
 
 			#footer a:hover {
@@ -870,10 +868,19 @@
 			font-size: 0.9em;
 		}
 
+		/*
+		 * STORY 
+ 		 */
+
 		.story p {
 			margin-bottom: 1em;
+			margin-top: 0em;
 		}
 
 		.story ul {
 			list-style: disc;
+		}
+
+		.story h2 {
+			margin-bottom: 1em;
 		}

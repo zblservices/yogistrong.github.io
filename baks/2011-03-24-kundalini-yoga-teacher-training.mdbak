@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Kundalini Yoga Teacher Training
+author:
+  display_name: timfanelli
+  login: timfanelli
+  email: tim@timfanelli.com
+  url: ''
+author_login: timfanelli
+author_email: tim@timfanelli.com
+wordpress_id: 101
+wordpress_url: http://iweb.gurumantrakaur.com/?p=101
+date: '2011-03-24 12:00:44 -0400'
+date_gmt: '2011-03-24 12:00:44 -0400'
+categories:
+- Training
+tags: []
+comments: []
+---
+*For [PranaShanti](http://www.pranashanti.com)*
+
+**Kundalini Yoga Teacher Training Experience**
+
+How do you energize and balance your mind, body, and spirit? How do you connect with this world, while staying sane through these changing times? How do you keep your physical body strong, flexible, and relaxed? How do we conquer the mind with the breath? How can we rid our self of blocks and fears? If you have ever wondered about these questions, and if you have ever wanted a life full of love, happiness, and health, then Kundalini Yoga Teacher Training is the answer for you.
+<!--more-->
+My name is GuruMantra Kaur, aka Josephine Glover. I&rsquo;m a Kundalini Yoga Instructor in Potsdam, NY. I started my Teacher Training in September 2009, at PranaShanti Yoga Center, in Ottawa, Ontario. I didn&rsquo;t know where life was taking me when I signed up for Teacher Training. I only knew I wanted to learn more about Yoga. This education has enriched my life by allowing me to let go of things that were holding me back, and gave me the tools needed to be stable in an unstable world. The experience and training provided has made me stronger mentally, emotionally, and physically. They say that once you are committed (one of the first steps to happiness and mastery), you start to change your lifestyle, eating habits, and clothing. I have changed all of them since I committed myself to Kundalini Yoga. I have never felt so overcome with love and support from every life force that is close to me. I have grown so much since I started awakening my life with the practice of Kundalini Yoga.
+
+I recommend Kundalini Yoga Teacher Training for anyone who wants to bring wellness and strength into their life, and the lives of those around them. The yoga teacher trainers at PranaShanti Yoga Center are professionals living the yogic lifestyle and sharing their knowledge and passion with grace and strength. They are the best of the best, teaching the same techniques that have been practiced and proven for over 3,000 years. Whether you want to teach yoga or just bring balance to your life, Kundalini Yoga Teacher Training is for you. This isn&rsquo;t a job, or physical workout, it is a life style of wellness, happiness, and strength.

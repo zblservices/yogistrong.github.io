@@ -34,8 +34,8 @@ comments:
 I have not written on this blog in a very long time. I would like to share with
 you about my labor and delivery, before I start talking about yoga and nutrition.
 
-<a href="http://www.yogistrong.com/wp-content/uploads/2012/11/photo.jpg">
-  <img class="alignleft size-medium wp-image-169" title="photo" src="http://www.yogistrong.com/wp-content/uploads/2012/11/photo-300x225.jpg" alt="" width="300" height="225" />
+<a href="{{site.baseurl}}/assets/2012/11/photo.jpg">
+  <img class="alignleft size-medium wp-image-169" title="photo" src="{{site.baseurl}}/assets/2012/11/photo-300x225.jpg" alt="" width="300" height="225" />
 </a>
 
 As most of you know, I was pregnant, but as of September 21st, 2012 my beautiful daughter was born. This experience was very traumatic for me. You watch all the pregnancy/labor shows, attend all the classes, tour the hospital and understand meditation, breathing, and yoga. So you think you are going to be prepared and do well in Labor and Delivery. Wrong! <!--more-->Well I was wrong in thinking I would have any control over my body. I am sure there are women out there that have had control in their labor and delivery, but not me. Let's start from the beginning.
