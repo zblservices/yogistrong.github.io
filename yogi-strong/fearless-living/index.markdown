@@ -30,8 +30,8 @@ comments: []
 
 <p>There will be Yogi Tea, and snacks provided.</p>
 
-<p><b>Cost per student:</b></p>
-<ul><li>Pre Register Discount Deadline, February 25th $75</li>
+<p><b>Pre-registration is now open:</b></p>
+<ul><li>Register before February 25th for $75</li>
     <li>Final Registration Deadline Date, March 15th $90</li>
   </ul>
 
